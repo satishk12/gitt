@@ -1,4 +1,4 @@
-package org.test.thread;
+package org.test.thread.common;
 
 public class TestObj {
 
@@ -13,8 +13,8 @@ public class TestObj {
 //					for (int l = 0; l < 100; l++)
 //						for (int m = 0; m < 100; m++)
 //							for (int n = 0; n < 100; n++)
-//								for (int o = 0; o < 100; o++)
-//									for (int p = 0; p < 100; p++)
+								for (int o = 0; o < 100; o++)
+									for (int p = 0; p < 100; p++)
 										for (int q = 0; q < 100; q++)
 											for (int r = 0; r < 100; r++)
 												for (int s = 0; s < 100; s++)
